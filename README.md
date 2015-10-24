@@ -1,2 +1,2 @@
 # LearningPython
-Follow the Think Python Bookk
+Follow the Think Python Book
